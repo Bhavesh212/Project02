@@ -51,3 +51,5 @@ SELECT
 5.) Drop the old undo tablespace
 
 drop tablespace APPS_UNDOTS2 including contents and datafiles;
+
+Now Check your undo tablespace changed.
